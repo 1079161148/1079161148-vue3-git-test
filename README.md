@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# 1079161148-vue3-git-test
-vue3项目git常用操作
-=======
 # vue3-test
 
 ## Project setup
@@ -26,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 7e7b022... 第一次用git提交
